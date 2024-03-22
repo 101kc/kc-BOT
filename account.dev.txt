@@ -15,7 +15,7 @@
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1742634616.085154,
+    "expirationDate": 1742636025.980186,
     "hostOnly": false,
     "httpOnly": false,
     "name": "c_user",
@@ -24,7 +24,7 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "61557667977695",
+    "value": "61555133288637",
     "id": 2
 },
 {
@@ -43,7 +43,7 @@
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1718874616.085473,
+    "expirationDate": 1718876026.354028,
     "hostOnly": false,
     "httpOnly": true,
     "name": "fr",
@@ -52,7 +52,7 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "13Mzzyv3qzFPyRbPz.AWUFT9fSBDGNzX4LMKCkOfpy2Nc.Bl_Usw..AAA.0.0.Bl_Usw.AWXnh8pl40U",
+    "value": "1ogAy3y4tKG4PZ3iW.AWWuy3K1KxKk6QKj49juGA_31qY.Bl_VB7..AAA.0.0.Bl_VCz.AWUhApPSfNY",
     "id": 4
 },
 {
@@ -79,7 +79,7 @@
     "secure": true,
     "session": true,
     "storeId": "0",
-    "value": "C%7B%22lm3%22%3A%22u.100089360940322%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1711098362956%2C%22v%22%3A1%7D",
+    "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1711100038761%2C%22v%22%3A1%7D",
     "id": 6
 },
 {
@@ -98,7 +98,7 @@
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1745657726.424236,
+    "expirationDate": 1745660025.979812,
     "hostOnly": false,
     "httpOnly": true,
     "name": "sb",
@@ -112,7 +112,7 @@
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1711702613,
+    "expirationDate": 1711704835,
     "hostOnly": false,
     "httpOnly": false,
     "name": "wd",
@@ -126,7 +126,7 @@
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1742634616.085384,
+    "expirationDate": 1742636025.980302,
     "hostOnly": false,
     "httpOnly": true,
     "name": "xs",
@@ -135,7 +135,7 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "46%3AGzcz4Y_TFfgBWA%3A2%3A1711097781%3A-1%3A-1%3A%3AAcXk7TAhS9w1gPqCt6rAnP4CQR6HCjr3xWcs-ZDCJA",
+    "value": "28%3Afj1aII5JAsUAuQ%3A2%3A1711100079%3A-1%3A3325",
     "id": 10
 }
 ]
